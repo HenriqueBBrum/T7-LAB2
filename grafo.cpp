@@ -1,3 +1,4 @@
+#include"grafo.hpp"
 
 void Grafo::busca_largura_lab(Vertice* saida, Vertice* entrada){
     std::queue<Vertice*> fila;
